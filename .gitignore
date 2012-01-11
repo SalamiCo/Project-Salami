@@ -1,0 +1,6 @@
+# Ignore compiled binaries
+bin/
+
+# Ignore hidden and temporary files
+**~
+.*
